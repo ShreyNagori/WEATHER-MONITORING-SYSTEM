@@ -8,8 +8,8 @@ DHT dht(DHTPIN, DHTTYPE);
 
 // Set our wifi name and password
 
-const char* ssid = "Galaxy M42 5G1442";   // your network SSID (name) 
-const char* password = "12345678";   // your network password
+const char* ssid = "YOUR WIFI SSID";   // your network SSID (name) 
+const char* password = "YOUR PASSWORD";   // your network password
 
 // Your thingspeak channel url with api_key query
 String serverName = "https://api.thingspeak.com/update?api_key=FURDYLBH0UR9DN1U"; // please replace it with your write API KEy
