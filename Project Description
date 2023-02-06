@@ -1,0 +1,7 @@
+A weather monitoring system using the ESP32 microcontroller and Thingspeak is a project that enables you to collect, process, and visualize weather data such as temperature, humidity, pressure, and wind speed.
+The ESP32 collects the data from various sensors (such as the DHT11 for temperature and humidity) and sends it to Thingspeak, an IoT platform that allows you to store, analyze and visualize data from connected devices. 
+The data can be visualized in real-time using graphs and charts.
+To set up the system, the ESP32 is programmed to collect the weather data, connect to the internet, and send the data to Thingspeak at regular intervals. 
+The user can access the data from anywhere through the Thingspeak website or mobile app.
+This project is ideal for creating a low-cost and easy-to-use weather monitoring system for personal or professional use. 
+The data collected can be used for various purposes, such as monitoring the weather conditions of a specific location, tracking changes in temperature, humidity and other parameters over time, and more.
